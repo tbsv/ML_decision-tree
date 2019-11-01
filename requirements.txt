@@ -15,7 +15,7 @@ cycler
 decorator
 defusedxml
 entrypoints
-gast
+gast==0.2.2
 grpcio
 h5py
 idna
@@ -52,7 +52,7 @@ plotly
 prometheus-client
 prompt-toolkit
 protobuf
-py4j
+py4j==0.10.7
 pycparser
 pydot
 Pygments
