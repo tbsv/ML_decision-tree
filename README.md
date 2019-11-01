@@ -1,5 +1,7 @@
 # Machine Learning // Decision Tree
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tbsv/ML_decision-tree/master?filepath=decision-tree_solution.ipynb)
+
 ## Data Science / Machine Learning example
 This is Binder-compatible repo with a `requirements.txt` file.
 
