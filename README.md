@@ -6,7 +6,7 @@ This is Binder-compatible repo with a `requirements.txt` file.
 
 ## Summary
 
-//TODO summary
+For this project we will use publicly available data from LendingClub.com. Lending Club brings together people who need money (lenders) and those who want to invest money (financiers). Understandably, as an invester, you want to lend money to people who are most likely to repay it. We will try to create a model that will help with this prediction.
 
 ## Contents
 
