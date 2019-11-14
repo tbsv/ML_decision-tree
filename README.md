@@ -70,7 +70,7 @@ sns.countplot(x='purpose',hue='not.fully.paid',data=loans,palette='Set1')
 
 ## Issues
 
-Please [open an issue](https://github.com/tbsv/ML_logistic-regression/issues) if you encounter any problems while trying to run the notebooks.
+Please [open an issue](https://github.com/tbsv/ML_decision-tree/issues) if you encounter any problems while trying to run the notebooks.
 
 ## About
 This data science exercise is part of the Digital Business Engineering Master at HHZ.
